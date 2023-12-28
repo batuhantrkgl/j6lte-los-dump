@@ -1,0 +1,20 @@
+## lineage_j6lte-userdebug 13 TQ3A.231201.001 eng.root.20231227.231659 test-keys
+- Manufacturer: samsung
+- Platform: universal7870
+- Codename: j6lte
+- Brand: samsung
+- Flavor: lineage_j6lte-userdebug
+- Release Version: 13
+- Kernel Version: 3.18.140
+- Id: TQ3A.230901.001
+- Incremental: eng.root.20231226.231659
+- Tags: test-keys
+- CPU Abilist: armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: true
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: samsung/j6ltexx/j6lte:10/QP1A.190711.020/A600FNXXU9CVB1:user/release-keys
+- OTA version: 
+- Branch: lineage_j6lte-userdebug-13-TQ3A.231201.001-eng.root.20231227.231659-test-keys
+- Repo: samsung_j6lte_dump
